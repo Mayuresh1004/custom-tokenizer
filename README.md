@@ -114,5 +114,16 @@ node index.js decode "[0,33,4,11,11,14,65,2,1]"
 Tokens: [0,33,4,11,11,14,65,2,1]
 Output: Hello ?
 ```
+###React App
+<img width="946" height="619" alt="image" src="https://github.com/user-attachments/assets/b45a6617-1659-4997-b5d7-df6a2ae9a7d3" />
+<img width="780" height="557" alt="image" src="https://github.com/user-attachments/assets/1ffce98e-5df6-43ac-9bae-e8441ecef00b" />
+
+###CLI App
+
+<img width="1192" height="171" alt="image" src="https://github.com/user-attachments/assets/fe8ceaa1-aeb3-40e4-baae-104cf568514b" />
+<img width="1226" height="157" alt="image" src="https://github.com/user-attachments/assets/8598ab4e-81ce-4535-a42e-c58eac1f2f9a" />
+
+
+
 
 
